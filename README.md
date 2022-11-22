@@ -1,7 +1,9 @@
 # Crypto-Algorithms
 
-Implementation of SHAKE128
+<b>Implementation of SHAKE128:</b>
+
 shake128.cpp is a c++ implementation for the shake128 hashing algorithm, using NIST FIPS standards.
 
-Implementation of SOLILOQUY
+<b>Implementation of SOLILOQUY:</b>
+
 Soliloquy.ipynb is a jupyter notebook containing a toy sage implementation of the (insecure) Soliloquy KEM
